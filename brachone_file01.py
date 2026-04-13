@@ -4,7 +4,7 @@ import math as m
 
 def function_sum(a,b): 
   try: 
-    retrun a+b
+    return a+b
   except: 
     print("Please provide a valid integers as arguments")
   
